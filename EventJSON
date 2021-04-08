@@ -1,7 +1,7 @@
 {
     "Events": {
         "TestEvent": {
-                  "EventEpoch": 1619899200,
+                  "EventEpoch": 1,
                   "EventBool": false
         }
     }
