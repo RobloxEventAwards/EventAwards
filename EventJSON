@@ -1,7 +1,8 @@
 {
-	"Events": {
-		"TestEvent": {
-      			"EventBool": true
-		}
-	}
+    "Events": {
+        "TestEvent": {
+                  "EventEpoch": 1619899200,
+                  "EventBool": true
+        }
+    }
 }
