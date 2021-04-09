@@ -1,8 +1,16 @@
 {
     "Events": {
         "TestEvent": {
-                  "EventEpoch": 10,
-                  "EventBool": false
+                  "EventEpoch": 1619899200,
+                  "EventBool": false,
+                  "AwardType": CODE BLACK,
+                  "Opening": true,
+                  "StudioTimeUntilStart": 30,
+                  "Competitors": nil,
+                  "Mode": true,
+                  "Sound": nil,
+                  "Winner": nil,
+                  "Instance": 002
         }
     }
 }
